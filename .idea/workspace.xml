@@ -6,8 +6,87 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3165751-f508-4592-82e7-0233250b6fc3" name="Default Changelist" comment="" />
+    <list default="true" id="b3165751-f508-4592-82e7-0233250b6fc3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/TESTJavaEE_01_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/WEB-INF/classes/META-INF/TESTJavaEE-01.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/WEB-INF/classes/com/java/code/jdbc/StudentHomeworkJdbc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/WEB-INF/classes/com/java/code/servlet/AddHomework.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/WEB-INF/classes/com/java/code/servlet/AddStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/WEB-INF/classes/com/java/code/servlet/AddStudentHomeworkServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/WEB-INF/classes/com/java/code/servlet/Showhomework.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/WEB-INF/classes/com/java/code/servlet/StudentHomeworkServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/WEB-INF/classes/com/java/code/servlet/Submithomework.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/WEB-INF/lib/protobuf-java-3.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/function/Add_homework.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/function/Add_student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/function/Add_student_homework.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/function/Add_student_homework_1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/function/Check_situation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/function/check_homework.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/function/judge.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/function/show_student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/TESTJavaEE-01.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/code/jdbc/StudentHomeworkJdbc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/code/model/Homework.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/code/model/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/code/model/StudentHomework.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/code/servlet/AddHomework.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/code/servlet/AddStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/code/servlet/AddStudentHomeworkServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/code/servlet/Showhomework.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/code/servlet/StudentHomeworkServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/java/code/servlet/Submithomework.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/TESTJavaEE_01_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/TESTJavaEE_01_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TESTJavaEE-01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TESTJavaEE-01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/code/class12/jdbc/StudentHomeworkJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/class12/com/java/code/jdbc/StudentHomeworkJdbc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/code/class12/model/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/class12/com/java/code/model/Homework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/code/class12/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/class12/com/java/code/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/code/class12/model/StudentHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/class12/com/java/code/model/StudentHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/code/class12/servlet/AddHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/class12/com/java/code/servlet/AddHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/code/class12/servlet/AddStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/class12/com/java/code/servlet/AddStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/code/class12/servlet/AddStudentHomeworkServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/class12/com/java/code/servlet/AddStudentHomeworkServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/code/class12/servlet/Showhomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/class12/com/java/code/servlet/Showhomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/code/class12/servlet/StudentHomeworkServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/class12/com/java/code/servlet/StudentHomeworkServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/code/class12/servlet/Submithomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/class12/com/java/code/servlet/Submithomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/META-INF/TESTJavaEE-01.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/META-INF/TESTJavaEE-01.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/java/code/class12/jdbc/StudentHomeworkJdbc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/java/code/class12/model/Homework.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/WEB-INF/classes/com/java/code/model/Homework.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/java/code/class12/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/WEB-INF/classes/com/java/code/model/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/java/code/class12/model/StudentHomework.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/TESTJavaEE-01-1.0-SNAPSHOT/WEB-INF/classes/com/java/code/model/StudentHomework.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/java/code/class12/servlet/AddHomework.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/java/code/class12/servlet/AddStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/java/code/class12/servlet/AddStudentHomeworkServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/java/code/class12/servlet/Showhomework.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/java/code/class12/servlet/StudentHomeworkServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/java/code/class12/servlet/Submithomework.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-8.0.16.jar" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/function/Add_homework.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/function/Add_homework.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/function/Add_student.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/function/Add_student.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/function/Add_student_homework.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/function/Add_student_homework.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/function/Add_student_homework_1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/function/Add_student_homework_1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/function/Check_situation.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/function/Check_situation.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/function/check_homework.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/function/check_homework.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/function/judge.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/function/judge.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/function/show_student.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/function/show_student.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,47 +101,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/class12/com/java/code/model/Homework.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/function/check_homework.jsp">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            <state relative-caret-position="38">
+              <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/function/judge.jsp">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/function/show_student.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="66" />
+            <state relative-caret-position="95">
+              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/function/show_student.jsp">
+        <entry file="file://$PROJECT_DIR$/src/main/class12/com/java/code/servlet/Submithomework.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="27" column="65" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/function/Add_student.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-28">
-              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/java/code/class12/jdbc/StudentHomeworkJdbc.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="246" column="38" selection-start-line="246" selection-start-column="38" selection-end-line="246" selection-end-column="38" />
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -85,12 +155,11 @@
       </list>
     </option>
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/java/code/TestJdbc.java" />
         <option value="$PROJECT_DIR$/src/com/java/code/class12/jdbc/TestJdbcV3.java" />
         <option value="$PROJECT_DIR$/src/com/java/code/class12/jdbc/TestJdbcV2.java" />
         <option value="$PROJECT_DIR$/src/com/java/code/class12/jdbc/TestJdbc.java" />
@@ -111,12 +180,37 @@
         <option value="$PROJECT_DIR$/web/function/Add_student_homework.jsp" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/web/function/Add_student_homework_1.jsp" />
-        <option value="$PROJECT_DIR$/web/function/check_homework.jsp" />
         <option value="$PROJECT_DIR$/web/function/Check_situation.jsp" />
         <option value="$PROJECT_DIR$/web/function/show_student.jsp" />
         <option value="$PROJECT_DIR$/src/com/java/code/class12/jdbc/StudentHomeworkJdbc.java" />
         <option value="$PROJECT_DIR$/web/function/judge.jsp" />
         <option value="$PROJECT_DIR$/web/function/Add_student.jsp" />
+        <option value="$PROJECT_DIR$/web/function/check_homework.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/class12/main/class12/jdbc/StudentHomeworkJdbc.java" />
+        <option value="$PROJECT_DIR$/src/main/class12/java/class12/jdbc/StudentHomeworkJdbc.java" />
+        <option value="$PROJECT_DIR$/src/main/class12/model/Homework.java" />
+        <option value="$PROJECT_DIR$/src/main/class12/model/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/class12/model/StudentHomework.java" />
+        <option value="$PROJECT_DIR$/src/main/class12/servlet/AddHomework.java" />
+        <option value="$PROJECT_DIR$/src/main/class12/com/java/code/servlet/AddHomework.java" />
+        <option value="$PROJECT_DIR$/src/main/class12/servlet/AddStudent.java" />
+        <option value="$PROJECT_DIR$/src/main/class12/servlet/AddStudentHomeworkServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/class12/servlet/Showhomework.java" />
+        <option value="$PROJECT_DIR$/src/main/class12/servlet/StudentHomeworkServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/class12/servlet/Submithomework.java" />
+        <option value="$PROJECT_DIR$/src/main/class12/com/java/code/servlet/AddStudent.java" />
+        <option value="$PROJECT_DIR$/src/main/class12/com/java/code/servlet/AddStudentHomeworkServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/class12/com/java/code/servlet/Showhomework.java" />
+        <option value="$PROJECT_DIR$/src/main/class12/com/java/code/servlet/StudentHomeworkServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/class12/com/java/code/jdbc/StudentHomeworkJdbc.java" />
+        <option value="$PROJECT_DIR$/src/main/class12/com/java/code/servlet/Submithomework.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/function/check_homework.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/function/Add_student_homework.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/function/Add_student_homework_1.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/function/Check_situation.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/function/show_student.jsp" />
       </list>
     </option>
   </component>
@@ -127,16 +221,8 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="429" />
-    <option name="y" value="-15" />
+    <option name="x" value="949" />
     <option name="width" value="981" />
     <option name="height" value="1032" />
   </component>
@@ -146,6 +232,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -163,73 +250,72 @@
               <item name="TESTJavaEE-01" type="b2602c69:ProjectViewProjectNode" />
               <item name="TESTJavaEE-01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TESTJavaEE-01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TESTJavaEE-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="class12" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TESTJavaEE-01" type="b2602c69:ProjectViewProjectNode" />
               <item name="TESTJavaEE-01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="class12" type="462c0819:PsiDirectoryNode" />
-              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TESTJavaEE-01" type="b2602c69:ProjectViewProjectNode" />
               <item name="TESTJavaEE-01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="class12" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TESTJavaEE-01" type="b2602c69:ProjectViewProjectNode" />
               <item name="TESTJavaEE-01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="class12" type="462c0819:PsiDirectoryNode" />
-              <item name="servlet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TESTJavaEE-01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TESTJavaEE-01" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TESTJavaEE-01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TESTJavaEE-01" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="function" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TESTJavaEE-01" type="b2602c69:ProjectViewProjectNode" />
               <item name="TESTJavaEE-01" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/class12/com/java/code" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\课件\大三下\JavaEE\TESTJavaEE-01\web" />
-      <recent name="D:\课件\大三下\JavaEE\TESTJavaEE-01\web\WEB-INF\function" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\课件\大三下\JavaEE\TESTJavaEE-01\src\com\java\code" />
       <recent name="D:\课件\大三下\JavaEE\TESTJavaEE-01\web\WEB-INF\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\课件\大三下\JavaEE\TESTJavaEE-01\src\main" />
+      <recent name="D:\课件\大三下\JavaEE\TESTJavaEE-01\web" />
+      <recent name="D:\课件\大三下\JavaEE\TESTJavaEE-01\web\WEB-INF\function" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -475,7 +561,10 @@
       <workItem from="1583729773501" duration="17231000" />
       <workItem from="1583844605014" duration="7747000" />
       <workItem from="1583910639086" duration="15723000" />
-      <workItem from="1583973916609" duration="8210000" />
+      <workItem from="1583973916609" duration="12674000" />
+      <workItem from="1584577297342" duration="26000" />
+      <workItem from="1584612493947" duration="1598000" />
+      <workItem from="1584672546413" duration="8038000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1583982271086</created>
@@ -484,16 +573,32 @@
       <option name="project" value="LOCAL" />
       <updated>1583982271086</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1583983722197</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583983722197</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63399000" />
+    <option name="totallyTimeSpent" value="77525000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16006467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16734034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -503,19 +608,19 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4987874" visible="true" weight="0.330373" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.64349234" weight="0.330373" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4995958" weight="0.3285968" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32978722" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32978722" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4987874" visible="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5012126" side_tool="true" visible="true" weight="0.330373" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32978722" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5012126" side_tool="true" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4995958" weight="0.3285968" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.4995958" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -566,8 +671,12 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TESTJavaEE_01$index_jsp__1_.ic" NAME="index.jsp (1) Coverage Results" MODIFIED="1583938078432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -582,14 +691,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/java/code/class12/jdbc/TestJdbcV3.java" />
     <entry file="file://$PROJECT_DIR$/src/com/java/code/class12/jdbc/TestJdbcV2.java" />
     <entry file="file://$PROJECT_DIR$/src/com/java/code/class12/servlet/TestServletV3.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/java/code/class12/model/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-280">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
@@ -597,13 +699,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/java/code/class12/servlet/TestServlet.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/java/code/class12/model/Homework.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/tomcat2/apache-tomcat-8.5.42/lib/servlet-api.jar!/javax/servlet/http/HttpServlet.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -628,134 +723,161 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/code/class12/model/StudentHomework.java">
+    <entry file="file://$PROJECT_DIR$/src/main/class12/com/java/code/model/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/code/class12/servlet/AddStudent.java">
+    <entry file="file://$PROJECT_DIR$/src/main/class12/com/java/code/model/StudentHomework.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/class12/com/java/code/servlet/AddHomework.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="27" column="58" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/code/class12/servlet/AddHomework.java">
+    <entry file="file://$PROJECT_DIR$/src/main/class12/com/java/code/servlet/AddStudent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="28" column="10" lean-forward="true" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        <state relative-caret-position="133">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/code/class12/servlet/AddStudentHomeworkServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/class12/com/java/code/servlet/AddStudentHomeworkServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/code/class12/servlet/Showhomework.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="23" column="83" selection-start-line="23" selection-start-column="83" selection-end-line="23" selection-end-column="83" />
+        <state relative-caret-position="133">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/code/class12/servlet/Submithomework.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/code/class12/servlet/StudentHomeworkServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/class12/com/java/code/servlet/Showhomework.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/function/Add_student_homework.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/class12/com/java/code/servlet/StudentHomeworkServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="26" column="15" lean-forward="true" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/class12/com/java/code/jdbc/StudentHomeworkJdbc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-304">
+          <caret line="108" column="43" selection-start-line="108" selection-start-column="43" selection-end-line="108" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/class12/com/java/code/servlet/Submithomework.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/function/Add_homework.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/function/Add_student.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/function/Add_student_homework.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/function/Add_homework.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/function/Add_student_homework_1.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="25" selection-start-line="25" selection-end-line="25" selection-end-column="6" />
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/function/Add_student_homework_1.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/class12/com/java/code/model/Homework.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="20" />
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/function/check_homework.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/function/Check_situation.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/function/Check_situation.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="31" column="45" lean-forward="true" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+        <state relative-caret-position="19">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/code/class12/jdbc/StudentHomeworkJdbc.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/function/judge.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="246" column="38" selection-start-line="246" selection-start-column="38" selection-end-line="246" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/function/judge.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
+        <state relative-caret-position="532">
           <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/function/show_student.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/function/show_student.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="27" column="65" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
+        <state relative-caret-position="95">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/function/Add_student.jsp">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/function/check_homework.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        <state relative-caret-position="38">
+          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -816,6 +938,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
